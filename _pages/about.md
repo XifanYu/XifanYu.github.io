@@ -1,3 +1,23 @@
+### About me
+
+I am a senior undergraduate student at the University of Chicago. I am completing a joint master degree in CS at the same time, and I am fortunate to be advised by Lorenzo Orecchia.
+
+I am interested in theoretical computer science. The particular fields of interest to me are the design of approximation algorithms, and the interplay between combinatorics, graph theory, and computational complexity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
