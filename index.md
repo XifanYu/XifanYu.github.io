@@ -1,3 +1,9 @@
+I am interested in theoretical computer science. The specific areas of interest to me are the design of approximation algorithms, and the interplay between combinatorics, graph theory, and computational complexity.
+I am currently a senior undergraduate student at University of Chicago. I am completing a joint master degree under the supervision of Lorenzo Orecchia at the same time. 
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/XifanYu/xifan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
