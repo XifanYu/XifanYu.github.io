@@ -4,6 +4,8 @@ I am a senior undergraduate student at the University of Chicago. I am completin
 
 I am interested in theoretical computer science. The particular fields of interest to me are the design of approximation algorithms, and the interplay between combinatorics, graph theory, and computational complexity.
 
+I enjoy competitive programming and puzzle solving.
+
 
 
 
