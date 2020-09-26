@@ -1,3 +1,14 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 ### About me
 
 I am a senior undergraduate student at the University of Chicago. I am completing a joint master degree in CS at the same time, and I am fortunate to be advised by Lorenzo Orecchia.
