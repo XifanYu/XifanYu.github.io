@@ -1,11 +1,11 @@
 ---
-permalink: /about
+permalink: /
 title: "Xifan Yu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 
