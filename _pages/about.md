@@ -20,7 +20,7 @@ I enjoy competitive programming and puzzle solving.
 
 ### Miscellaneous Writing
 
-[A survey of the Neggers-Stanley conjecture](https://xifanyu.github.io/file/A_Survey_Of_The_Neggers-Stanley_Conjecture.pdf)
+[A survey of the Neggers-Stanley conjecture](https://xifanyu.github.io/files/A_Survey_Of_The_Neggers-Stanley_Conjecture.pdf)
 
 
 
