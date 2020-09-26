@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /non-menu-page
 title: "Xifan Yu"
 excerpt: "xifan homepage"
 author_profile: true
 redirect_from: 
-  - "/home/"
-  - "/home.html"
+  - "/nmp/"
+  - "/nmp.html"
 ---
 
 This is a page not in the menu. You can use markdown in this page.
