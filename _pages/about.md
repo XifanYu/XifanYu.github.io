@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Xifan Yu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
