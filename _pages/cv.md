@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
 * M.S. in Computer Science, University of Chicago, 2021 (expected)
 * B.S. in Computer Science, University of Chicago, 2021 (expected)
 * B.S. in Mathematics, University of Chicago, 2021 (expected)
 
-Work experience
-======
+### Work experience
 * Spring 2019 - Autumn 2020: Grader
   * Department of Computer Science, University of Chicago
   * CMSC 27100 Discrete Mathematics, Prof. Bill Fefferman, Autumn 2020
@@ -27,18 +25,15 @@ Work experience
 * Summer 2019: Software Engineer
   * Horizon Robotics Inc.
   
-Awards
-======
+### Awards
 * Phi Beta Kappa, Inducted, 2020
 * Student Marshall, 2020
 * Dean's List, 2018/2019/2020
 * International Collegiate Programming Contest North America Finalist, 2020
 * International Collegiate Programming Contest World Finalist, 2019
   
-Languages
-======
+### Languages
 * Chinese (native), English (fluent)
   
-Skills
-======
+### Skills
 * C++, Python, Haskell, Matlab, Latex
