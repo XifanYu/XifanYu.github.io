@@ -28,7 +28,7 @@ redirect_from:
 * Summer 2019: Software Engineer
   * Horizon Robotics Inc.
   
-### Awards
+### Honors and awards
 * Phi Beta Kappa, Inducted, 2020
 * Student Marshall, 2020
 * Dean's List, 2018/2019/2020
