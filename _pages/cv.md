@@ -15,9 +15,12 @@ redirect_from:
 * B.S. in Mathematics, University of Chicago, 2021 (expected)
 
 ### Work experience
-* Spring 2019 - Autumn 2020: Grader
+* Autumn 2020 - Present: Teaching Assistant
   * Department of Computer Science, University of Chicago
-  * CMSC 27100 Discrete Mathematics, Prof. Bill Fefferman, Autumn 2020
+  * CMSC 37115 Introduction to Mathematical Reasoning via Discrete Mathematics, Prof. L&#225;szl&#243; Babai, Autumn 2020
+
+* Spring 2019 - Spring 2020: Grader
+  * Department of Computer Science, University of Chicago
   * CMSC 27500 Graph Theory, Prof. Ketan Mulmuley, Spring 2020
   * CMSC 37000 Algorithms, Prof. Yury Makarychev, Winter 2020
   * CMSC 27530 Honors Graph Theory, Prof. L&#225;szl&#243; Babai, Spring 2019
