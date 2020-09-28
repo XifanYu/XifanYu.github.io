@@ -17,7 +17,6 @@ redirect_from:
 ### Work experience
 * Autumn 2020 - Present: Teaching Assistant
   * Department of Computer Science, University of Chicago
-  * CMSC 37115 Introduction to Mathematical Reasoning via Discrete Mathematics, Prof. L&#225;szl&#243; Babai, Autumn 2020
 
 * Spring 2019 - Spring 2020: Grader
   * Department of Computer Science, University of Chicago
