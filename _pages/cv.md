@@ -14,7 +14,7 @@ redirect_from:
 * B.S. in Computer Science, University of Chicago, 2021 (expected)
 * B.S. in Mathematics, University of Chicago, 2021 (expected)
 
-### Work experience
+### Professional experience
 * Autumn 2020 - Present: Teaching Assistant
   * Department of Computer Science, University of Chicago
   * CMSC 37115 Introduction to Mathematical Reasoning via Discrete Mathematics, Prof. L&#225;szl&#243; Babai, Autumn 2020
