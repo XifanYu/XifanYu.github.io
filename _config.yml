@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xifan Yu's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xifan Yu"
 description              : &description "personal description"
