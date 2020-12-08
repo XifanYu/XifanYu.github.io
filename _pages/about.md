@@ -17,10 +17,15 @@ I am interested in theoretical computer science. The specific fields of interest
 
 I enjoy competitive programming and puzzle solving. I am a GO player, and I am a member of UChicago GO Team.
 
+Here is my [**CV](https://xifanyu.github.io/files/Xifan_CV.pdf)
+
 
 ### Miscellaneous Writings
 
-* [**A survey of the Neggers-Stanley conjecture**](https://xifanyu.github.io/files/A_Survey_Of_The_Neggers-Stanley_Conjecture.pdf)\
+* [**A survey of the Neggers-Stanley conjecture**](https://xifanyu.github.io/files/A_Survey_of_the_Neggers-Stanley_Conjecture.pdf)\
   2020 UChicago Math REU paper
+  
+* [**Anomaly detection on connected subgraphs**](https://xifanyu.github.io/files/abstract_anomaly_detection.pdf)\
+  Ongoing project
 
 
