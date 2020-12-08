@@ -17,7 +17,7 @@ I am interested in theoretical computer science. The specific fields of interest
 
 I enjoy competitive programming and puzzle solving. I am a GO player, and I am a member of UChicago GO Team.
 
-Here is my [**CV**](https://xifanyu.github.io/files/Xifan_CV.pdf)
+Here is my [**CV**](https://xifanyu.github.io/files/Xifan_CV.pdf).
 
 
 ### Miscellaneous Writings
