@@ -23,7 +23,7 @@ Here is my [**CV**](https://xifanyu.github.io/files/Xifan_CV.pdf).
 ### Miscellaneous Writings
 
 * [**A survey of the Neggers-Stanley conjecture**](https://xifanyu.github.io/files/A_Survey_of_the_Neggers-Stanley_Conjecture.pdf)\
-  2020 UChicago Math REU paper
+  2020 UChicago Math REU paper, Mentor: Adan Medrano Martin del Campo
   
 * [**Anomaly detection on connected subgraphs**](https://xifanyu.github.io/files/abstract_anomaly_detection.pdf)\
   Ongoing project
