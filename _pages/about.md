@@ -22,6 +22,7 @@ Here is my [**CV**](https://xifanyu.github.io/files/Xifan_CV.pdf).
 
 ### Master Thesis
 * [**Anomaly detection on connected subgraphs via constant-factor approximation algorithms for the Elevated Mean problem**](https://xifanyu.github.io/files/xifan_yu_MS_thesis_draft.pdf)\
+  Advisor: Lorenzo Orecchia
 
 
 ### Miscellaneous Writings
