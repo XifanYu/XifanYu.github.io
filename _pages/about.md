@@ -20,12 +20,16 @@ I enjoy competitive programming and puzzle solving. I am a GO player, and I am a
 Here is my [**CV**](https://xifanyu.github.io/files/Xifan_CV.pdf).
 
 
+### Master Thesis
+* [**Anomaly detection on connected subgraphs via constant-factor approximation algorithms for the Elevated Mean problem**](https://xifanyu.github.io/files/xifan_yu_MS_thesis_draft.pdf)\
+
+
 ### Miscellaneous Writings
 
 * [**A survey of the Neggers-Stanley conjecture**](https://xifanyu.github.io/files/A_Survey_of_the_Neggers-Stanley_Conjecture.pdf)\
   2020 UChicago Math REU paper, Mentor: Adan Medrano Martin del Campo
-  
+<!--   
 * [**Anomaly detection on connected subgraphs**](https://xifanyu.github.io/files/abstract_anomaly_detection.pdf)\
-  Ongoing project
+  Ongoing project -->
 
 
