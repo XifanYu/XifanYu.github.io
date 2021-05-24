@@ -11,7 +11,7 @@ redirect_from:
 
 ### About me
 
-I am a senior undergraduate student at the University of Chicago, and I am completing a joint master degree in CS at the same time. I am fortunate to be advised by Lorenzo Orecchia.
+I am a senior undergraduate student at the University of Chicago, and I am completing a joint master degree in CS at the same time. I am fortunate to be advised by Lorenzo Orecchia. I will join Yale as a PhD student in the Computer Science Department fall 2021, where I will be coadvised by Dan Spielman and Nisheeth Vishnoi.
 
 I am interested in theoretical computer science. The specific fields of interest to me are the design of approximation algorithms, and the interplay between combinatorics, graph theory, computational complexity, and classical mathematics such as linear algebra, probability theory, and analysis.
 
