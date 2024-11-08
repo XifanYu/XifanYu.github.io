@@ -11,24 +11,36 @@ redirect_from:
 
 ### About me
 
-I am a senior undergraduate student at the University of Chicago, and I am completing a joint master degree in CS at the same time. I am fortunate to be advised by Lorenzo Orecchia. I will join Yale as a PhD student in the Computer Science Department fall 2021, where I will be coadvised by Dan Spielman and Nisheeth Vishnoi.
+I am a 4th year PhD student in computer science at Yale University and I am fortunate to be advised by Dan Spielman. Before then, I was an undergraduate at the University of Chicago, advised by Lorenzo Orecchia.
 
-I am interested in theoretical computer science. The specific fields of interest to me are the design of approximation algorithms, and the interplay between combinatorics, graph theory, computational complexity, and classical mathematics such as linear algebra, probability theory, and analysis.
+I am broadly interested in theoretical computer science. Recently I am interested in graph theory, average-case complexity, Sum-of-Squares algorithms, and high-dimensional statistics.
 
-I enjoy competitive programming and puzzle solving. I am a GO player, and I am a member of UChicago GO Team.
+Previously, I participated in competitive programming. I am a GO player, and I was a member of UChicago GO Team.
 
-Here is my [**CV**](https://xifanyu.github.io/files/Xifan_CV.pdf).
+Here is my [**CV**](https://xifanyu.github.io/files/CV-24-09.pdf).
+
+
+### Publications and Preprints
+* [**Computational hardness of detecting graph lifts and certifying lift-monotone properties of random regular graphs**](https://xifanyu.github.io/files/2404.17012v1.pdf)\
+  Dmitriy Kunisky, Xifan Yu. *Symposium on Foundations of Computer Science (FOCS)*, 2024.
+
+* [**Counting stars is constant-degree optimal for detecting any planted subgraph**](https://xifanyu.github.io/files/2403.17766v1.pdf)\
+  Xifan Yu, Ilias Zadik, Peiyuan Zhang. *Conference on Learning Theory (COLT)*, 2024.
+
+* [**A degree 4 sum-of-squares lower bound for the clique number of the Paley graph**](https://xifanyu.github.io/files/2211.02713v2.pdf)\
+  Dmitriy Kunisky, Xifan Yu. *Computational Complexity Conference (CCC)*, 2023.
+
 
 
 ### Master Thesis
 * [**Anomaly detection on connected subgraphs via constant-factor approximation algorithms for the Elevated Mean problem**](https://xifanyu.github.io/files/xifan_yu_MS_thesis_draft.pdf)\
-  Advisor: Lorenzo Orecchia
+  Xifan Yu, Advisor: Lorenzo Orecchia
 
 
 ### Miscellaneous Writings
 
 * [**A survey of the Neggers-Stanley conjecture**](https://xifanyu.github.io/files/A_Survey_of_the_Neggers-Stanley_Conjecture.pdf)\
-  2020 UChicago Math REU paper, Mentor: Adan Medrano Martin del Campo
+  Xifan Yu, 2020 UChicago Math REU paper, Mentor: Adan Medrano Martin del Campo
 
 
 
