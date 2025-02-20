@@ -17,10 +17,13 @@ I am broadly interested in theoretical computer science. Recently I am intereste
 
 Previously, I participated in competitive programming. I am a GO player, and I was a member of UChicago GO Team.
 
-Here is my [**CV**](https://xifanyu.github.io/files/CV-24-09.pdf).
+Here is my [**CV**](https://xifanyu.github.io/files/CV-25-02.pdf).
 
 
 ### Publications and Preprints
+* [**Statistical inference of a ranked community in a directed graph**](https://arxiv.org/pdf/2411.19885)\
+  Dmitriy Kunisky, Daniel A. Spielman, Alexander S. Wein, Xifan Yu. *To appear in Symposium on Theory of Computing (STOC)*, 2025.
+
 * [**Computational hardness of detecting graph lifts and certifying lift-monotone properties of random regular graphs**](https://xifanyu.github.io/files/2404.17012v1.pdf)\
   Dmitriy Kunisky, Xifan Yu. *Symposium on Foundations of Computer Science (FOCS)*, 2024.
 
