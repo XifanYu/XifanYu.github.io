@@ -24,13 +24,13 @@ Here is my [**CV**](https://xifanyu.github.io/files/CV-25-02.pdf).
 * [**Statistical inference of a ranked community in a directed graph**](https://arxiv.org/pdf/2411.19885)\
   Dmitriy Kunisky, Daniel A. Spielman, Alexander S. Wein, Xifan Yu. *To appear in Symposium on Theory of Computing (STOC)*, 2025.
 
-* [**Computational hardness of detecting graph lifts and certifying lift-monotone properties of random regular graphs**](https://xifanyu.github.io/files/2404.17012v1.pdf)\
+* [**Computational hardness of detecting graph lifts and certifying lift-monotone properties of random regular graphs**](https://arxiv.org/pdf/2404.17012)\
   Dmitriy Kunisky, Xifan Yu. *Symposium on Foundations of Computer Science (FOCS)*, 2024.
 
-* [**Counting stars is constant-degree optimal for detecting any planted subgraph**](https://xifanyu.github.io/files/2403.17766v1.pdf)\
+* [**Counting stars is constant-degree optimal for detecting any planted subgraph**](https://arxiv.org/pdf/2403.17766)\
   Xifan Yu, Ilias Zadik, Peiyuan Zhang. *Conference on Learning Theory (COLT)*, 2024.
 
-* [**A degree 4 sum-of-squares lower bound for the clique number of the Paley graph**](https://xifanyu.github.io/files/2211.02713v2.pdf)\
+* [**A degree 4 sum-of-squares lower bound for the clique number of the Paley graph**](https://arxiv.org/pdf/2211.02713)\
   Dmitriy Kunisky, Xifan Yu. *Computational Complexity Conference (CCC)*, 2023.
 
 
