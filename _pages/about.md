@@ -11,7 +11,7 @@ redirect_from:
 
 ### About me
 
-I am a 4th year PhD student in computer science at Yale University and I am fortunate to be advised by Dan Spielman. Before then, I was an undergraduate at the University of Chicago, advised by Lorenzo Orecchia.
+I am a 5th year PhD student in computer science at Yale University and I am fortunate to be advised by Dan Spielman. Before then, I was an undergraduate at the University of Chicago, advised by Lorenzo Orecchia.
 
 I am broadly interested in theoretical computer science. Recently I am interested in graph theory, average-case complexity, Sum-of-Squares algorithms, and high-dimensional statistics.
 
@@ -21,13 +21,16 @@ Here is my [**CV**](https://xifanyu.github.io/files/CV-25-02.pdf).
 
 
 ### Publications and Preprints
+* [**Counting stars is constant-degree optimal for detecting any planted subgraph**](https://arxiv.org/pdf/2403.17766)\
+  Xifan Yu, Ilias Zadik, Peiyuan Zhang. *Mathematical Statistics and Learning*, 2025+.
+
 * [**Statistical inference of a ranked community in a directed graph**](https://arxiv.org/pdf/2411.19885)\
   Dmitriy Kunisky, Daniel A. Spielman, Alexander S. Wein, Xifan Yu. *To appear in Symposium on Theory of Computing (STOC)*, 2025.
 
 * [**Computational hardness of detecting graph lifts and certifying lift-monotone properties of random regular graphs**](https://arxiv.org/pdf/2404.17012)\
   Dmitriy Kunisky, Xifan Yu. *Symposium on Foundations of Computer Science (FOCS)*, 2024.
 
-* [**Counting stars is constant-degree optimal for detecting any planted subgraph**](https://arxiv.org/pdf/2403.17766)\
+* [**Counting stars is constant-degree optimal for detecting any planted subgraph, Extended Abstract**](https://arxiv.org/pdf/2403.17766)\
   Xifan Yu, Ilias Zadik, Peiyuan Zhang. *Conference on Learning Theory (COLT)*, 2024.
 
 * [**A degree 4 sum-of-squares lower bound for the clique number of the Paley graph**](https://arxiv.org/pdf/2211.02713)\
