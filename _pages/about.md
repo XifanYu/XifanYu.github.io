@@ -21,6 +21,9 @@ Here is my [**CV**](https://xifanyu.github.io/files/CV-25-02.pdf).
 
 
 ### Publications and Preprints
+* **Language Generation with Infinite Contamination**\
+  Anay Mehrotra, Grigoris Velegkas, Xifan Yu, Felix Zhou. *In Submission*, 2025.
+
 * [**Counting stars is constant-degree optimal for detecting any planted subgraph**](https://arxiv.org/pdf/2403.17766)\
   Xifan Yu, Ilias Zadik, Peiyuan Zhang. *Mathematical Statistics and Learning*, 2025+.
 
