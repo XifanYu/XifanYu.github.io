@@ -17,15 +17,21 @@ I am broadly interested in theoretical computer science. Recently I am intereste
 
 Previously, I participated in competitive programming. I am a GO player, and I was a member of UChicago GO Team.
 
-Here is my [**CV**](https://xifanyu.github.io/files/CV-25-02.pdf).
+Here is my [**CV**](https://xifanyu.github.io/files/CV-26-02.pdf).
 
 
 ### Publications and Preprints
-* **Language Generation with Infinite Contamination**\
+* **Stable algorithms lower bounds for estimation from MMSE discontinuities**\
+  Xifan Yu, Ilias Zadik. *In Submission*, 2026.
+
+* **Differentially private language generation in the limit**\
+  Anay Mehrotra, Grigoris Velegkas, Xifan Yu, Felix Zhou. *In Submission*, 2026.
+
+* [**Language Generation with Infinite Contamination**](https://arxiv.org/pdf/2511.07417v1)\
   Anay Mehrotra, Grigoris Velegkas, Xifan Yu, Felix Zhou. *In Submission*, 2025.
 
-* [**Counting stars is constant-degree optimal for detecting any planted subgraph**](https://arxiv.org/pdf/2403.17766)\
-  Xifan Yu, Ilias Zadik, Peiyuan Zhang. *Mathematical Statistics and Learning*, 2025+.
+* [**Counting stars is constant-degree optimal for detecting any planted subgraph**](https://ems.press/journals/msl/articles/14299031)\
+  Xifan Yu, Ilias Zadik, Peiyuan Zhang. *Mathematical Statistics and Learning*, 2025.
 
 * [**Statistical inference of a ranked community in a directed graph**](https://arxiv.org/pdf/2411.19885)\
   Dmitriy Kunisky, Daniel A. Spielman, Alexander S. Wein, Xifan Yu. *To appear in Symposium on Theory of Computing (STOC)*, 2025.
