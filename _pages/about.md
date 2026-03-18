@@ -34,7 +34,7 @@ Here is my [**CV**](https://xifanyu.github.io/files/CV-26-02.pdf).
   Xifan Yu, Ilias Zadik, Peiyuan Zhang. *Mathematical Statistics and Learning*, 2025.
 
 * [**Statistical inference of a ranked community in a directed graph**](https://arxiv.org/pdf/2411.19885)\
-  Dmitriy Kunisky, Daniel A. Spielman, Alexander S. Wein, Xifan Yu. *To appear in Symposium on Theory of Computing (STOC)*, 2025.
+  Dmitriy Kunisky, Daniel A. Spielman, Alexander S. Wein, Xifan Yu. *Symposium on Theory of Computing (STOC)*, 2025.
 
 * [**Computational hardness of detecting graph lifts and certifying lift-monotone properties of random regular graphs**](https://arxiv.org/pdf/2404.17012)\
   Dmitriy Kunisky, Xifan Yu. *Symposium on Foundations of Computer Science (FOCS)*, 2024.
