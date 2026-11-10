@@ -21,6 +21,9 @@ Here is my [**CV**](https://xifanyu.github.io/files/CV-26-09.pdf).
 
 
 ### Publications and Preprints
+* [**The sum-of-squares complexity of linear-algebraic principles**](https://arxiv.org/pdf/2611.05250)\
+  Dmitriy Kunisky, Xifan Yu. *In Submission*, 2026.
+
 * [**Inequalities for rank-two permanents and finite free convolutions**](https://arxiv.org/pdf/2608.28520)\
   Dmitriy Kunisky, Daniel A. Spielman, Xifan Yu. *Manuscript*, 2026.
 
@@ -30,7 +33,7 @@ Here is my [**CV**](https://xifanyu.github.io/files/CV-26-09.pdf).
 * [**Strong refutation of random ordering CSPs**](https://arxiv.org/pdf/2607.09410)\
   Xifan Yu. *In Submission*, 2026.
 
-* **Large growth happens: Gaussian elimination with partial pivoting on random matrices**\
+* [**Large growth happens: Gaussian elimination with partial pivoting on random matrices**](https://arxiv.org/pdf/2610.08701)\
   Daniel A. Spielman, Xifan Yu. *In Submission*, 2026.
 
 * [**Stable algorithms lower bounds for estimation from MMSE discontinuities (Extended Abstract)**](https://arxiv.org/pdf/2603.22192)\
